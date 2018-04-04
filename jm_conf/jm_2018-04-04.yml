@@ -12,7 +12,6 @@ meetup:
     min_events: 4
     min_freq: 60
     search_keys:
-        - openstack
         - mesos
         - docker
         - data science
@@ -26,19 +25,23 @@ meetup:
         - kafka
         - scala
         - hadoop
-        - coreos
-        - software circus
         - data engineering
         - devops
+        - machine learning
 locations:
-    UK:
-        - Manchester
-        - Bristol
+    US:
+        - Seattle
+        - Chicago
+        - Philidelphia
+        - San Francisco
+        - Oakland
+        - Atlanta
         - London
-        - Birmingham
-    DE:
-        - Hamburg
-        - Berlin
+    FR:
+        - Paris
+    AU:
+        - Sydney
+        - Melbourne
 output:
     types:
          - table
